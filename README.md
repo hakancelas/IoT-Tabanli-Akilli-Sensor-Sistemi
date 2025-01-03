@@ -1,0 +1,1 @@
+# IoT-Tabanli-Akilli-Sensor-Sistemi
